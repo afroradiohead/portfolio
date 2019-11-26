@@ -1,5 +1,10 @@
 
 # Christopher Clarke's Portfolio
+# About me
+As an **entrepreneurial-minded web developer**, I focus heavily on increasing the effectiveness of communication within teams, business processes and codebases. I also specialize in creating custom solutions to integrate external applications (whether homemade or from a third-party platform) into client facing-applications - allowing operation managers to have more control over their application without code being the bottleneck.
+
+## Personal Philophies
+I believe a successful product/business is one that focuses on closing gaps in manual processes through automation - striving to simultaneously increase the **speed** and **accuracy** of *ideas to conception, user-interaction to datapoints, todo lists to done lists, development to production, etc.* 
 
 # Personal Projects
 
