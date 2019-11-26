@@ -28,9 +28,7 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 | [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| Typescript Heroku
 
 
-# Apps/Websites worth noting
-
-
+# Other websites worked on
 <table>
   <tr>
     <td><a href="https://tieks.com/">Tieks <img src="https://user-images.githubusercontent.com/5151401/69669851-82b76180-1047-11ea-8823-bbef3dfeca5d.png" /></a></td>
