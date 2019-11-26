@@ -1,5 +1,7 @@
 
-# Christopher Clarke's Personal Portfolio
+# Christopher Clarke's Portfolio
+
+# Personal Projects
 
 ## Oclify - Visualize The Web
 An innovative browser-based search engine that allows users to consume content all across the web in a futuristic 3D experience. Powered by content from **Facebook, Google, Youtube, Instagram and Twitter** - we provide a one-stop shop to not only view your content, but interact back with the platform the content came from (adding likes, comments, sending messages, favoriting, etc)
@@ -24,3 +26,6 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 | <a href="https://afroradiohead-breakout.herokuapp.com/">Frontend</a> | Technologies|
 |--|--|
 | [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| Typescript Heroku
+
+
+# Client Facing Applications Built For Business Owners
