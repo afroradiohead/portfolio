@@ -21,5 +21,4 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 
 | <a href="https://afroradiohead-breakout.herokuapp.com/">Frontend</a> | Technologies|
 |--|--|
-| [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| <a href="https://docs.google.com/spreadsheets/d/1MIM2mpx3Hq8jcM-2VOl-qJdtYMdoHZnHG_PZgnp11iQ/edit?usp=sharing"><img src="https://user-images.githubusercontent.com/5151401/69595104-6a960280-0fb3-11ea-8d48-e4f8b137df76.png"/></a>| Typescript Heroku
-
+| [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| Typescript Heroku
