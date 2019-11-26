@@ -29,8 +29,17 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 
 
 # Apps/Websites worth noting
-| <a href="[ https://www.runit.com /]( https://www.runit.com /)">   <img src=" https://user-images.githubusercontent.com/5151401/69597491-00815b80-0fbb-11ea-98d3-4e8e4b0b4378.png "></a> | <a href="[https://tieks.com/](https://tieks.com/)">  <img src="https://user-images.githubusercontent.com/5151401/69597240-2c501180-0fba-11ea-8dab-bb6ac8ce723e.png"></a> | <a href="[http://www.pricegrabber.com/](http://www.pricegrabber.com/)">  <img src="https://user-images.githubusercontent.com/5151401/69597240-2c501180-0fba-11ea-8dab-bb6ac8ce723e.png"></a> |  |  |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| <a href="[https://www.ceramicartspace.com/](https://www.ceramicartspace.com/)">  <img src="https://user-images.githubusercontent.com/5151401/69597534-273f9200-0fbb-11ea-81c7-b65f69cfb445.png"></a> | <a href="[https://www.misla.org/](https://www.misla.org/)">  <img src="https://user-images.githubusercontent.com/5151401/69597567-39b9cb80-0fbb-11ea-82a5-a7c151149b64.png"></a> |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+
+
+<table>
+  <tr>
+    <td><a href="https://tieks.com/">Tieks <img src="https://user-images.githubusercontent.com/5151401/69669851-82b76180-1047-11ea-8823-bbef3dfeca5d.png" /></a></td>
+    <td><a href="https://www.runit.com/">Runit</a> <img src="https://user-images.githubusercontent.com/5151401/69597491-00815b80-0fbb-11ea-98d3-4e8e4b0b4378.png"></td>
+    <td><a href="https://www.ceramicartspace.com/">Ceramic Art Space <img src="https://user-images.githubusercontent.com/5151401/69597534-273f9200-0fbb-11ea-81c7-b65f69cfb445.png" /></a></td>
+    <td><a href="http://www.pricegrabber.com/">Pricegrabber <img src="https://user-images.githubusercontent.com/5151401/69597240-2c501180-0fba-11ea-8dab-bb6ac8ce723e.png" /></a></td>
+    <td><a href="https://www.misla.org/">MISLA</a> <img src="https://user-images.githubusercontent.com/5151401/69597567-39b9cb80-0fbb-11ea-82a5-a7c151149b64.png"></td>
+    <td></td>
+  </tr>
+</table>
+
+
