@@ -15,3 +15,11 @@ A aggregation platform that grabs prices from **Nintendo.com** and price matches
 |--|--|--|
 | [![](https://user-images.githubusercontent.com/5151401/69594669-eb53ff00-0fb1-11ea-887f-2b95a7b25b9c.png)]([https://vgpt.herokuapp.com/](https://vgpt.herokuapp.com/))| <a href="https://docs.google.com/spreadsheets/d/1MIM2mpx3Hq8jcM-2VOl-qJdtYMdoHZnHG_PZgnp11iQ/edit?usp=sharing"><img src="https://user-images.githubusercontent.com/5151401/69595104-6a960280-0fb3-11ea-8d48-e4f8b137df76.png"/></a>| Angular 7 Node/Express Google Sheets Apify.com
 
+## Breakout - A fork from the [original project](https://github.com/ajweeks/Breakout)
+An exercise in code architecture, this project has been upgraded to respect **Typescript Classes/Interfaces**, compile with **webpack** and extended with the beginnings of reusable Game Engine that includes **Event Emission**, **Collision Detection** and **Object Management**. The rendering has been upgraded to use **CreateJS**.
+*Future version will include a level generator that is fed by colored tiles in google sheets*
+
+| <a href="https://afroradiohead-breakout.herokuapp.com/">Frontend</a> | Technologies|
+|--|--|
+| [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| <a href="https://docs.google.com/spreadsheets/d/1MIM2mpx3Hq8jcM-2VOl-qJdtYMdoHZnHG_PZgnp11iQ/edit?usp=sharing"><img src="https://user-images.githubusercontent.com/5151401/69595104-6a960280-0fb3-11ea-8d48-e4f8b137df76.png"/></a>| Typescript Heroku
+
