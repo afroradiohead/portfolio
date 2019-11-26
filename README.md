@@ -41,3 +41,30 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 </table>
 
 
+<table style="undefined;table-layout: fixed; width: 900px">
+<colgroup>
+<col style="width: 156px">
+<col style="width: 567px">
+<col style="width: 177px">
+</colgroup>
+  <tr>
+    <th>Website</th>
+    <th>Description</th>
+    <th>Built w/</th>
+  </tr>
+  <tr>
+    <td>Findabeautysalon.com</td>
+    <td>A premier beauty salon directory listing spas and salon across the nation</td>
+    <td>Codeigniter, jQuery, Mysql</td>
+  </tr>
+  <tr>
+    <td>Trywire.com <a href="https://www.reddit.com/r/leagueoflegends/comments/1rweg5/host_your_team_chats_wo_giving_your_skype_anymore/">(Reddit Post)</a></td>
+    <td>A chatroom catered to the popular game League of Legends. Allowed users to chat through the browser using socket.io and browser peer2peer streaming</td>
+    <td>Angularjs Nodejs</td>
+  </tr>
+  <tr>
+    <td>LoL Damage Calculator <a href="https://www.reddit.com/r/leagueoflegends/comments/1yr150/finished_making_a_small_damage_calculator_wanted/">(Reddit Post)</a></td>
+    <td>A tool to calculate damage of every character for the popular game League of Legends</td>
+    <td>Laravel Jquery Mysql</td>
+  </tr>
+</table>
