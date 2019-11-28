@@ -15,7 +15,7 @@ As an **entrepreneurial-minded web engineer** working in tech for the last 11 ye
 
 ### As a lead
 - Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
-- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less stress. 
+- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less confusion. 
 
 # Personal Projects
 
