@@ -14,8 +14,8 @@ As an **entrepreneurial-minded web engineer** working in tech for the last 11 ye
 - Use data to resolve major decision forks
 
 ### As a lead
-- Continues to increase their capacity for empathy and compassion - especially during stress and strife - therefore they can accurately solve underlying problems
-- Cares about increasing their own communication and listening skills, as to provide those they are guiding a reflection that assists them in breaking down their complex problems into bite-sized ones to resolve much more easily. 
+- Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
+- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less stress. 
 
 # Personal Projects
 
