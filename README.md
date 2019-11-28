@@ -1,6 +1,9 @@
 
 # About me
-As an **entrepreneurial-minded web engineer** working in tech for the last 11 years, I focus heavily on increasing the effectiveness of communication within teams, business processes and codebases. I also specialize in creating custom solutions to integrate external applications (whether homemade or from a third-party platform) into client facing-applications - allowing operation managers to have more control over their application without code being the bottleneck.
+As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. Tutoring and consulting has become a pasttime as well.
+
+# What am I looking for
+Having worked at many different types of companies throughout my career, I'm now looking to settle down with a company that values their employees while also closely aligns and able to benefit from my values as an Engineer, Entrepenuer and Leader. 
 
 ## My Values 
 ### As an engineer
