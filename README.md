@@ -4,14 +4,14 @@ As an **entrepreneurial-minded web engineer** working in tech for the last 11 ye
 
 ## My Values 
 ### As an engineer
-- Continues to practice increasing the speed and accuracy of translations between business logic and coding logic
-- Automates as much of their own work as possible, opening a path for them to help others using the same value
-- Maintaining a continuing awareness of the goals of those they're building for, as to ensure they build the right sets of products with minimal iterations
+- Continue to practice increasing the speed and accuracy of translations between business logic and coding logic - as I found a good product has a codebase that attempts to reflect the business's language and goals.
+- Automate as much of our own work as possible, opening a path for us to be available for other teams and projects.
+- Maintain a continuing awareness of the goals of those we are coding for ensure we build features with minimal iterations
 
 ### As an entrepenuer
-- Maintains an awareness of their user's experience and strives to increase the quality of their experience
-- Focuses on adding or removing processes to better guide the business to it's desired outcome
-- Use data to resolve major decision forks
+- Maintain an awareness of our users' experience and strive to increase the quality of that experience
+- Focus on adding and removing processes that will guide our business to it's desired outcomes
+- Use collected data to resolve our major decision points
 
 ### As a lead
 - Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
