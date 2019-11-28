@@ -1,9 +1,21 @@
 
 # About me
-As an **entrepreneurial-minded web developer** working in tech for the last 11 years, I focus heavily on increasing the effectiveness of communication within teams, business processes and codebases. I also specialize in creating custom solutions to integrate external applications (whether homemade or from a third-party platform) into client facing-applications - allowing operation managers to have more control over their application without code being the bottleneck.
+As an **entrepreneurial-minded web engineer** working in tech for the last 11 years, I focus heavily on increasing the effectiveness of communication within teams, business processes and codebases. I also specialize in creating custom solutions to integrate external applications (whether homemade or from a third-party platform) into client facing-applications - allowing operation managers to have more control over their application without code being the bottleneck.
 
-## Personal Philosophy
-I believe a successful product/business is one that focuses on closing gaps in manual processes through automation - striving to simultaneously increase the **speed** and **accuracy** of *ideas to conception, user-interaction to datapoints, todo lists to done lists, development to production, and everything inbetween.* 
+## My Values 
+### As an engineer
+- Continues to practice increasing the speed and accuracy of translations between business logic and coding logic
+- Automates as much of their own work as possible, opening a path for them to help others using the same value
+- Maintaining a continuing awareness of the goals of those they're building for, as to ensure they build the right sets of products with minimal iterations
+
+### As an entrepenuer
+- Maintains an awareness of their user's experience and strives to increase the quality of their experience
+- Focuses on adding or removing processes to better guide the business to it's desired outcome
+- Use data to resolve major decision forks
+
+### As a lead
+- Continues to increase their capacity for empathy and compassion - especially during stress and strife - therefore they can accurately solve underlying problems
+- Cares about increasing their own communication and listening skills, as to provide those they are guiding a reflection that assists them in breaking down their complex problems into bite-sized ones to resolve much more easily. 
 
 # Personal Projects
 
