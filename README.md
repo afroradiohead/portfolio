@@ -1,26 +1,4 @@
-
-# About me
-As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. Tutoring and consulting has become a pasttime as well.
-
-# What am I looking for
-Having worked at many different types of companies throughout my career, I'm now looking to settle down with a company that values their employees while also closely aligns and able to benefit from my values as an Engineer, Entrepenuer and Leader. 
-
-## My Values 
-### As an engineer
-- Continue to practice increasing the speed and accuracy of translations between business logic and coding logic - as I found a good product has a codebase that attempts to reflect the business's language and goals.
-- Automate as much of our own work as possible, opening a path for us to be available for other teams and projects.
-- Maintain a continuing awareness of the goals of those we are coding for ensure we build features with minimal iterations
-
-### As an entrepenuer
-- Maintain an awareness of our users' experience and strive to increase the quality of that experience
-- Focus on adding and removing processes that will guide our business to it's desired outcomes
-- Use collected data to resolve our major decision points
-
-### As a lead
-- Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
-- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less confusion. 
-
-# Personal Projects
+# Projects
 
 ## Oclify - Visualize The Web
 An innovative browser-based search engine that allows users to consume content all across the web in a futuristic 3D experience. Powered by content from **Facebook, Google, Youtube, Instagram and Twitter** - we provide a one-stop shop to not only view your content, but interact back with the platform the content came from (adding likes, comments, sending messages, favoriting, etc)
@@ -87,3 +65,26 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
     <td>Laravel Jquery Mysql</td>
   </tr>
 </table>
+
+
+
+# About me
+As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. Tutoring and consulting has become a pasttime as well.
+
+# What am I looking for
+Having worked at many different types of companies throughout my career, I'm now looking to settle down with a company that values their employees while also closely aligns and able to benefit from my values as an Engineer, Entrepenuer and Leader. 
+
+## My Values 
+### As an engineer
+- Continue to practice increasing the speed and accuracy of translations between business logic and coding logic - as I found a good product has a codebase that attempts to reflect the business's language and goals.
+- Automate as much of our own work as possible, opening a path for us to be available for other teams and projects.
+- Maintain a continuing awareness of the goals of those we are coding for ensure we build features with minimal iterations
+
+### As an entrepenuer
+- Maintain an awareness of our users' experience and strive to increase the quality of that experience
+- Focus on adding and removing processes that will guide our business to it's desired outcomes
+- Use collected data to resolve our major decision points
+
+### As a lead
+- Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
+- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less confusion. 
