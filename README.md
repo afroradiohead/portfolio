@@ -69,10 +69,10 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 
 
 # About me
-As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. Tutoring and consulting has become a pasttime as well.
+As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. I also do a bit of tutoring and consulting for startup owners.
 
 # Career Goals
-Having worked at many different types of companies throughout my career, I'm now looking to settle down with a company that values their employees and closely aligns values as an Engineer, Entrepenuer and aspiring Lead. 
+I'm now looking to settle down with a company could benefit from my wide array of experiences and also closely aligns values as an Engineer, Entrepenuer and Lead. 
 
 ## My Values 
 ### As an engineer
