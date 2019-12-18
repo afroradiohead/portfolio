@@ -72,7 +72,7 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. I also do a bit of tutoring and consulting for startup owners.
 
 # Career Goals
-I'm now looking to settle down with a company could benefit from my wide array of experiences and also closely aligns values as an Engineer and Entrepenuer. 
+Looking to grow within a company that closely aligns with my interests and values.
 
 ## My Values 
 ### As an engineer
@@ -85,7 +85,7 @@ I'm now looking to settle down with a company could benefit from my wide array o
 - Focus on adding and removing processes that will guide our business to it's desired outcomes
 - Use collected data to resolve our major decision points
 
-### As a lead
+### As a leader
 - Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
 - Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less confusion. 
 
@@ -94,3 +94,5 @@ I'm now looking to settle down with a company could benefit from my wide array o
 - Reading books on neuroscience
 - Learning biblical hebrew
 - Mentoring/Tutoring startup owners
+- Video games
+- Family
