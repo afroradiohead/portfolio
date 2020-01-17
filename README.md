@@ -17,8 +17,6 @@ A price aggregation website powered by **Nintendo.com**, **Gamestop.com** and **
 ## Breakout - A fork from the [original project](https://github.com/ajweeks/Breakout)
 An exercise in code architecture, this project has been upgraded to respect **Typescript Classes/Interfaces**, compile with **webpack** and extended with the beginnings of reusable Game Engine that includes **Event Emission**, **Collision Detection** and **Object Management**. The rendering has been upgraded to use **CreateJS**.
 
-*Future versions will include a level generator that is fed by colored tiles in google sheets*
-
 | <a href="https://afroradiohead-breakout.herokuapp.com/">Frontend</a> | Technologies|
 |--|--|
 | [![](https://user-images.githubusercontent.com/5151401/69595520-a2517a00-0fb4-11ea-934c-71890af1a809.png)]([[https://afroradiohead-breakout.herokuapp.com/](https://afroradiohead-breakout.herokuapp.com/)/](https://vgpt.herokuapp.com/))| Typescript Heroku
