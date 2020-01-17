@@ -66,33 +66,16 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
   </tr>
 </table>
 
-
-
 # About me
-As an **entrepreneurial-minded web engineer**, I've been blessed to have had the opportunity these last 11 years to work as a search engine marketer, a PHP developer for a small shop (heavily using tools like magento, oscommerce and wordpress), joined and operated my own small shop developing prototypes and mvps for small businesses to receive funding whilst working on our own startup (Oclify) for 6 years. I've also had the opportunity to work in bigger companies like Pricegrabber (sold now) and GumGum, exposing me to the different variables of what makes a business falter and propser. I also do a bit of tutoring and consulting for startup owners.
+Passionate about creating processes and tools to help individuals and companies reach their goals. Since 2009, I've had the opportunity to pursue this passion as a web developer working in a small shop, running a small business, and working in small to mid-sized companies. Early in my career I was a mix of a web developer/product owner/marketer and in the later half find myself specializing more as a frontend engineer with a eye for product and process development. 
 
 # Career Goals
-Looking to grow within a company that closely aligns with my interests and values.
+I'm looking to be apart of a forward-thinking organization who prides themselves on the quality of their products/services while on the cutting edge of tools/processes/development workflows.
 
-## My Values 
-### As an engineer
-- Continue to practice increasing the speed and accuracy of translations between business logic and coding logic - as I found a good product has a codebase that attempts to reflect the business's language and goals.
-- Automate as much of our own work as possible, opening a path for us to be available for other teams and projects.
-- Maintain a continuing awareness of the goals of those we are coding for ensure we build features with minimal iterations
-
-### As an entrepenuer
-- Maintain an awareness of our users' experience and strive to increase the quality of that experience
-- Focus on adding and removing processes that will guide our business to it's desired outcomes
-- Use collected data to resolve our major decision points
-
-### As a leader
-- Continue to increase our capacity for empathy and compassion - especially during stress and strife - therefore we can accurately solve underlying problems
-- Care about increasing our own communication and listening skills, as to provide those we are guiding a reflection of themselves to assist them in breaking down their complex problems into bite-sized ones for them to resolve with less confusion. 
-
+# Interests
+- Machine Learning
+- User Experience Design
 
 # Hobbies
-- Reading books on neuroscience
-- Learning biblical hebrew
-- Mentoring/Tutoring startup owners
-- Video games
-- Family
+- Reading books on human behavior
+- Mentoring and coaching
