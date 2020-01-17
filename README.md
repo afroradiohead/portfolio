@@ -69,7 +69,7 @@ An exercise in code architecture, this project has been upgraded to respect **Ty
 Passionate about creating processes and tools to help individuals and companies reach their goals. Since 2009, I've had the opportunity to pursue this passion as a web developer working in a small shop, running a small business, and working in small to mid-sized companies. Early in my career I was a mix of a web developer/product owner/marketer and in the later half find myself specializing more as a frontend engineer with a eye for product and process development. 
 
 # Career Goals
-I'm looking to be apart of a forward-thinking organization who prides themselves on the quality of their products/services while on the cutting edge of tools/processes/development workflows.
+I'm looking to be apart of a forward-thinking organization who prides themselves on the quality of their products and services while maintaining a desire experiment with integration of new tools and processes that helps its teams achieve their goals.
 
 # Interests
 - Machine Learning
